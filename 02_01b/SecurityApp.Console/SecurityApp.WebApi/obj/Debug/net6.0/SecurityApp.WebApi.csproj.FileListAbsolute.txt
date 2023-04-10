@@ -1,0 +1,7 @@
+C:\LinkedIn\AdvancedSecurity\App\Chapter02\01\Begin\SecurityApp.Console\SecurityApp.WebApi\obj\Debug\net6.0\SecurityApp.WebApi.csproj.AssemblyReference.cache
+C:\LinkedIn\AdvancedSecurity\App\Chapter02\01\Begin\SecurityApp.Console\SecurityApp.WebApi\obj\Debug\net6.0\SecurityApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\LinkedIn\AdvancedSecurity\App\Chapter02\01\Begin\SecurityApp.Console\SecurityApp.WebApi\obj\Debug\net6.0\SecurityApp.WebApi.AssemblyInfoInputs.cache
+C:\LinkedIn\AdvancedSecurity\App\Chapter02\01\Begin\SecurityApp.Console\SecurityApp.WebApi\obj\Debug\net6.0\SecurityApp.WebApi.AssemblyInfo.cs
+C:\LinkedIn\AdvancedSecurity\App\Chapter02\01\Begin\SecurityApp.Console\SecurityApp.WebApi\obj\Debug\net6.0\SecurityApp.WebApi.csproj.CoreCompileInputs.cache
+C:\LinkedIn\AdvancedSecurity\App\Chapter02\01\Begin\SecurityApp.Console\SecurityApp.WebApi\obj\Debug\net6.0\SecurityApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\LinkedIn\AdvancedSecurity\App\Chapter02\01\Begin\SecurityApp.Console\SecurityApp.WebApi\obj\Debug\net6.0\SecurityApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
