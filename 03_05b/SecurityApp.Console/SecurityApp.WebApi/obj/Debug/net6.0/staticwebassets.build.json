@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DNs0EpdeZVR/STswMUpDetuYm5YCWYqAEjNbGTRck+8=",
+  "Source": "SecurityApp.WebApi",
+  "BasePath": "_content/SecurityApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
