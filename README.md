@@ -1,7 +1,14 @@
 # ASP.NET Core Advanced Security Data Protection
-This is the repository for the LinkedIn Learning course `ASP.NET Core Advanced Security Data Protection`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course ASP.NET Core Advanced Security Data Protection. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![ASP.NET Core Advanced Security Data Protection][lil-thumbnail-url] 
+
+Software security is a critical consideration when designing and developing web applications. While security breaches and threats can have serious consequences, there are a handful of steps you can take as a software developer to ensure you keep your applications safe. In this course, instructor Ervis Trupja covers practical techniques for securing data and controlling access to ASP.NET Core applications.
+
+Explore some of the most common attacks and application vulnerabilities to learn more about how to protect yourself against them. Find out how to protect sensitive data in your applications using the data protection consumer API, as well as how to configure data protection settings, key storage, and more. By the end of this course, you’ll be equipped with highly marketable software development skills for extending data protection with the iKey, ISecret, and IAuthenticatedEncryptor interfaces.
+
+
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -20,15 +27,16 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
 
+### Instructor
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Ervis Trupja 
+                            
+Software Developer
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+                            
 
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ervis-trupja).
+
+[lil-course-url]: https://www.linkedin.com/learning/asp-dot-net-core-advanced-security-data-protection?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHQkOYOD-OjRg/learning-public-crop_675_1200/0/1684263534672?e=2147483647&v=beta&t=agmZs7n1ucpkOMZxCAfbSA929jILo4sNQ4ijsrhbfO8
